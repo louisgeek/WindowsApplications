@@ -68,7 +68,7 @@ Windows 软件推荐
 | scrcpy                                                       | 可以显示并控制通过 USB (或 [TCP/IP](https://www.genymotion.com/blog/open-source-project-scrcpy-now-works-wirelessly/)) 连接的安卓设备，且不需要任何 *root* 权限 |                                                              | https://github.com/Genymobile/scrcpy |           |
 | [Windows File Recovery](https://aka.ms/winfr)                | 微软 Windows 文件恢复命令行工具                              |                                                              |                                      | Microsoft |
 | [WinFR 界面版](https://www.disktool.cn/recovery/winfr.html)  | Windows File Recovery 图形界面工具                           |                                                              |                                      | **AOMEI** |
-| [Partition Assistant 分区助手](https://www.disktool.cn/feature.html) | 免费、简单易用的无损分区软件                                 | 简单易用且免费的无损分区软件，作为无损分区的先行者，在它的帮助下，您可以无损数据地执行调整分区大小，移动分区位置，复制分区，快速分区，复制磁盘，合并分区，切割分区、恢复分区、迁移操作系统等操作，是一个强大的分区工具 |                                      |           |
+| [Partition Assistant 分区助手](https://www.disktool.cn/feature.html) | 免费、简单易用的无损分区软件                                 | 简单易用且免费的无损分区软件，作为无损分区的先行者，在它的帮助下，您可以无损数据地执行调整分区大小，移动分区位置，复制分区，快速分区，复制磁盘，合并分区，切割分区、恢复分区、迁移操作系统等操作，是一个强大的分区工具 |                                      | **AOMEI** |
 | [DiskGenius 磁盘精灵](https://www.diskgenius.cn/)            | 数据恢复软件,硬盘分区工具,系统备份软件                       | 经典的 硬盘分区工具 ，功能全面，安全可靠。创建分区、删除分区、格式化分区、隐藏分区、分配盘符等基本功能外，DiskGenius 还提供快速分区、无损调整分区大小，分区表备份恢复等更多高阶功能。支持GPT分区格式，支持EXT4文件系统 |                                      |           |
 | [UltraISO 软碟通](https://ultraiso.net/)                     | 光盘映像文件制作/编辑/转换工具                               | 功能强大、方便实用、老牌优秀的光盘映像文件制作/编辑/转换工具：可以直接编辑ISO文件，从ISO中提取文件和目录；也可以从CD - ROM制作光盘映像或者将硬盘上的文件制作成ISO文件；同时还可以处理ISO文件的启动信息，从而制作可引导光盘。使用UltraISO，你可以随心所欲地制作/编辑/转换光盘映像文件 |                                      |           |
 
@@ -111,12 +111,12 @@ Windows 软件推荐
 
 ### Hash
 
-| 名称 url                                              | 简介 | 说明 |
-| ----------------------------------------------------- | ---- | ---- |
-| [OpenHashTab](https://github.com/namazso/OpenHashTab) |      |      |
-|                                                       |      |      |
-|                                                       |      |      |
-|                                                       |      |      |
+| 名称 url    | 简介                      | 说明                                                         |                                        |
+| ----------- | ------------------------- | ------------------------------------------------------------ | -------------------------------------- |
+| OpenHashTab | 文件哈希检查的 Shell 扩展 | 一个 Windows Shell 扩展，用于方便地从文件属性中计算和检查文件哈希 | https://github.com/namazso/OpenHashTab |
+|             |                           |                                                              |                                        |
+|             |                           |                                                              |                                        |
+|             |                           |                                                              |                                        |
 
 
 
