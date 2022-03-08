@@ -62,12 +62,15 @@ Windows 软件推荐
 
 ### 系统工具
 
-| 名称 url                              | 简介                                                         | 说明                                                         |                                      |
-| ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------ |
-| [AutoHotKey](https://autohotkey.com/) | 适用于 Windows 的终极自动化脚本语言                          | 免费的Windows开源脚本语言，允许用户轻松地为各种任务创建小到复杂的脚本，例如：表单填充器，自动单击，宏等 |                                      |
-| scrcpy                                | 可以显示并控制通过 USB (或 [TCP/IP](https://www.genymotion.com/blog/open-source-project-scrcpy-now-works-wirelessly/)) 连接的安卓设备，且不需要任何 *root* 权限 |                                                              | https://github.com/Genymobile/scrcpy |
-|                                       |                                                              |                                                              |                                      |
-|                                       |                                                              |                                                              |                                      |
+| 名称 url                                                     | 简介                                                         | 说明                                                         |                                      |           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------ | --------- |
+| [AutoHotKey](https://autohotkey.com/)                        | 适用于 Windows 的终极自动化脚本语言                          | 免费的Windows开源脚本语言，允许用户轻松地为各种任务创建小到复杂的脚本，例如：表单填充器，自动单击，宏等 |                                      |           |
+| scrcpy                                                       | 可以显示并控制通过 USB (或 [TCP/IP](https://www.genymotion.com/blog/open-source-project-scrcpy-now-works-wirelessly/)) 连接的安卓设备，且不需要任何 *root* 权限 |                                                              | https://github.com/Genymobile/scrcpy |           |
+| [Windows File Recovery](https://aka.ms/winfr)                | 微软 Windows 文件恢复命令行工具                              |                                                              |                                      | Microsoft |
+| [WinFR 界面版](https://www.disktool.cn/recovery/winfr.html)  | Windows File Recovery 图形界面工具                           |                                                              |                                      | **AOMEI** |
+| [Partition Assistant 分区助手](https://www.disktool.cn/feature.html) | 免费、简单易用的无损分区软件                                 | 简单易用且免费的无损分区软件，作为无损分区的先行者，在它的帮助下，您可以无损数据地执行调整分区大小，移动分区位置，复制分区，快速分区，复制磁盘，合并分区，切割分区、恢复分区、迁移操作系统等操作，是一个强大的分区工具 |                                      |           |
+| [DiskGenius 磁盘精灵](https://www.diskgenius.cn/)            | 数据恢复软件,硬盘分区工具,系统备份软件                       | 经典的 硬盘分区工具 ，功能全面，安全可靠。创建分区、删除分区、格式化分区、隐藏分区、分配盘符等基本功能外，DiskGenius 还提供快速分区、无损调整分区大小，分区表备份恢复等更多高阶功能。支持GPT分区格式，支持EXT4文件系统 |                                      |           |
+| [UltraISO 软碟通](https://ultraiso.net/)                     | 光盘映像文件制作/编辑/转换工具                               | 功能强大、方便实用、老牌优秀的光盘映像文件制作/编辑/转换工具：可以直接编辑ISO文件，从ISO中提取文件和目录；也可以从CD - ROM制作光盘映像或者将硬盘上的文件制作成ISO文件；同时还可以处理ISO文件的启动信息，从而制作可引导光盘。使用UltraISO，你可以随心所欲地制作/编辑/转换光盘映像文件 |                                      |           |
 
 
 
@@ -128,12 +131,12 @@ Windows 软件推荐
 
 
 
-| 名称 url                                            | 简介 | 说明 | 开源 url                               |
-| --------------------------------------------------- | ---- | ---- | -------------------------------------- |
-| [Windows Terminal](https://aka.ms/terminal)         |      |      | https://github.com/microsoft/terminal  |
-| [PowerToys](https://aka.ms/powertoys)               |      |      | https://github.com/microsoft/PowerToys |
-| [Visual Studio Code](https://code.visualstudio.com) |      |      | https://github.com/microsoft/vscode    |
-|                                                     |      |      |                                        |
+| 名称 url                                            | 简介 | 说明 | 开源 url                               |           |
+| --------------------------------------------------- | ---- | ---- | -------------------------------------- | --------- |
+| [Windows Terminal](https://aka.ms/terminal)         |      |      | https://github.com/microsoft/terminal  | Microsoft |
+| [PowerToys](https://aka.ms/powertoys)               |      |      | https://github.com/microsoft/PowerToys | Microsoft |
+| [Visual Studio Code](https://code.visualstudio.com) |      |      | https://github.com/microsoft/vscode    | Microsoft |
+|                                                     |      |      |                                        |           |
 
 
 
@@ -193,22 +196,23 @@ Windows 软件推荐
 
 ### U盘启动
 
-| 名称 url                         | 简介                        | 说明                                                         | 开源 url                         | 备注 |
-| -------------------------------- | --------------------------- | ------------------------------------------------------------ | -------------------------------- | ---- |
-| [Rufus](https://rufus.ie/zh/)    | *轻松创建USB启动盘*         | 可以帮助格式化和创建可引导USB闪存盘的工具，比如 USB 随身碟，记忆棒等等 | https://github.com/pbatard/rufus |      |
-| [Ventoy](https://www.ventoy.net) | 新一代多系统启动U盘解决方案 | 制作可启动U盘的开源工具，支持显示不同类型的操作系统镜像入口在同一个菜单列表里 | https://github.com/ventoy/Ventoy |      |
-|                                  |                             |                                                              |                                  |      |
-|                                  |                             |                                                              |                                  |      |
-|                                  |                             |                                                              |                                  |      |
+| 名称 url                                        | 简介                                       | 说明                                                         | 开源 url                         | 备注      |
+| ----------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | --------- |
+| [Rufus](https://rufus.ie/zh/)                   | 轻松创建 USB 启动盘                        | 可以帮助格式化和创建可引导USB闪存盘的工具，比如 USB 随身碟，记忆棒等等 | https://github.com/pbatard/rufus |           |
+| [Ventoy](https://www.ventoy.net)                | 新一代多系统启动U盘解决方案                | 制作可启动U盘的开源工具，支持显示不同类型的操作系统镜像入口在同一个菜单列表里 | https://github.com/ventoy/Ventoy |           |
+| [WinToGo](https://www.disktool.cn/wintogo.html) | 移动存储设备系统                           | 简单、易用且免费的安装Win 10到U盘、移动硬盘软件。主要为便携、临时替代、节约空间而生 |                                  | **AOMEI** |
+| [Wepe 微PE](https://www.wepe.com.cn/)           | 微 PE 工具箱 - 超好用的 WinPE 装机维护工具 | 跨时代的PE工具箱，装机维护得力的助手，最后的救命稻草。化繁为简，小材大用，一键安装，极速启动 |                                  |           |
+|                                                 |                                            |                                                              |                                  |           |
 
 
 
 ### 远程桌面
 
-| 名称 url                             | 简介                 | 说明                                 | 开源 url                              | 备注                             |
-| ------------------------------------ | -------------------- | ------------------------------------ | ------------------------------------- | -------------------------------- |
-| [AnyDesk](https://anydesk.com/zhs)   | 快速远程桌面应用程序 | 随时随地访问任何设备。始终安全、快捷 |                                       |                                  |
-| [ToDesk](http://todesk.com/)         | 远程控制软件         | 免费安全流畅的远程连接电脑手机       |                                       |                                  |
-| [向日葵](https://sunlogin.oray.com/) | 远程控制软件         | 以桌面远程为核心，解决系统级远程协助 |                                       | 老牌，至少能用                   |
-| [RustDesk](https://rustdesk.com/zh/) | 开源远程桌面软件     | 远程桌面软件，开箱即用，无需任何配置 | https://github.com/rustdesk/rustdesk/ | 公共服务可能有风险，推荐自建服务 |
+| 名称 url                               | 简介                 | 说明                                                         | 开源 url                              | 备注                             |
+| -------------------------------------- | -------------------- | ------------------------------------------------------------ | ------------------------------------- | -------------------------------- |
+| [AnyDesk](https://anydesk.com/zhs)     | 快速远程桌面应用程序 | 随时随地访问任何设备。始终安全、快捷                         |                                       |                                  |
+| [ToDesk](http://todesk.com/)           | 远程控制软件         | 免费安全流畅的远程连接电脑手机                               |                                       |                                  |
+| [向日葵](https://sunlogin.oray.com/)   | 远程控制软件         | 以桌面远程为核心，解决系统级远程协助                         |                                       | 老牌，至少能用                   |
+| [RustDesk](https://rustdesk.com/zh/)   | 开源远程桌面软件     | 远程桌面软件，开箱即用，无需任何配置                         | https://github.com/rustdesk/rustdesk/ | 公共服务可能有风险，推荐自建服务 |
+| [AnyViewer](https://www.anyviewer.cn/) | Windows 远程桌面软件 | 免费且好用的远程桌面软件，适用于Windows个人电脑和服务器，选择它，你不会后悔 |                                       | **AOMEI**                        |
 
