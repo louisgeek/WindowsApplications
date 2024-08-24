@@ -101,8 +101,9 @@ Windows 软件推荐
 
 
 | 名称 url                                    | 简介 | 说明 |
-| ------------------------------------------- | ---- | ---- |
-| [Xshell](https://www.netsarang.com/xshell/) |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+| [Xshell](https://www.xshell.com/)                            |      |      |
+| [XFTP - Effortless File Transfers Over A Network (xshell.com)](https://www.xshell.com/en/xftp/) |      |      |
 |                                             |      |      |
 |                                             |      |      |
 |                                             |      |      |
@@ -136,7 +137,7 @@ Windows 软件推荐
 | [Windows Terminal](https://aka.ms/terminal)         |      |      | https://github.com/microsoft/terminal  | Microsoft |
 | [PowerToys](https://aka.ms/powertoys)               |      |      | https://github.com/microsoft/PowerToys | Microsoft |
 | [Visual Studio Code](https://code.visualstudio.com) |      |      | https://github.com/microsoft/vscode    | Microsoft |
-|                                                     |      |      |                                        |           |
+| https://cn.bing.com/guanjia                         |      |      |                                        |           |
 
 
 
@@ -155,7 +156,7 @@ Windows 软件推荐
 
 | 名称 url                                   | 简介                                        | 说明 | 开源 url                     |                                  |
 | ------------------------------------------ | ------------------------------------------- | ---- | ---------------------------- | -------------------------------- |
-| [Atom](https://atom.io/)                   | A hackable text editor for the 21st Century |      | https://github.com/atom/atom | GitHub                           |
+| [Notepad--](https://gitee.com/cxasm/notepad--)   | 一个国产跨平台、轻量级的文本编辑器，是替换notepad++的一种选择 |      | https://gitee.com/cxasm/notepad-- |                            |
 | [Notepad++](https://notepad-plus-plus.org) | 免费的文本/代码编辑器                       |      |                              | 启动速度快，不过作者对大陆不友好 |
 |                                            |                                             |      |                              |                                  |
 
@@ -215,4 +216,5 @@ Windows 软件推荐
 | [向日葵](https://sunlogin.oray.com/)   | 远程控制软件         | 以桌面远程为核心，解决系统级远程协助                         |                                       | 老牌，至少能用                   |
 | [RustDesk](https://rustdesk.com/zh/)   | 开源远程桌面软件     | 远程桌面软件，开箱即用，无需任何配置                         | https://github.com/rustdesk/rustdesk/ | 公共服务可能有风险，推荐自建服务 |
 | [AnyViewer](https://www.anyviewer.cn/) | Windows 远程桌面软件 | 免费且好用的远程桌面软件，适用于Windows个人电脑和服务器，选择它，你不会后悔 |                                       | **AOMEI**                        |
+| [RayLink](https://www.raylink.live/) | 远程控制软件 | 一款安全、易用、高性能的远程控制软件，广泛应用在桌面远程控制、远程终端访问、网络管理和IT支持等领域 |                                       |                      |
 
